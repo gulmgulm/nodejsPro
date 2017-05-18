@@ -2,7 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679c6b06-f8c8-43b5-8717-9b4871f9b291" name="默认的" comment="init">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/5507956eN735de046.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/618.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bannerline.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/bottom_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/btn_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cal_min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/calculator_tbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/cdfl_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/chat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dklc_10_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dklc_1_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dklc_3_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dklc_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dkyt_1_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dkyt_2_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dkyt_3_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dkyt_4_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/dot1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grayBg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/img1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/jsfk_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ldyd_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/line.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/login-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/login_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbd_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/mtbdicon_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/nav1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/nav2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/nav4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/nav_title_arrow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/nav_title_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/qq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/qq_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/si_serviceleft2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/si_serviceleft_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/slide_min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sqtj_1_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sqtj_2_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sqtj_3_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sqtj_4_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sqtj_box_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/sxeg_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/tel1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/wb2wm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/weixin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/wx2wm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/zcpticon7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.bxSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/default/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nodejsPro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +103,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8172043">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="locutil.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/acorn/src/locutil.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-14.928572">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/reset.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20904645">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,7 +187,7 @@
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1288" />
-    <option name="height" value="988" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -86,8 +202,8 @@
     <OptionsSetting value="true" id="更新" />
     <OptionsSetting value="true" id="状态" />
     <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="添加" />
-    <ConfirmationsSetting value="0" id="移除" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -104,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,55 +250,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nodejsPro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,8 +264,17 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\loan\nodejsPro\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -240,6 +323,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -271,29 +362,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="988" extended-state="0" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1288" height="772" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -335,8 +427,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20904645">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/acorn/src/locutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.928572">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8172043">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
