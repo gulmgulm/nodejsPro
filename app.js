@@ -8,6 +8,16 @@ var bodyParser = require('body-parser');
 var index = require('./routes/index');
 var users = require('./routes/users');
 
+global.dbHandel = require('./database/dbHandel');
+global.db = mongoose.connect("mongodb://localhost:27017/nodedb");
+var app = express();
+app.use(session({
+  secret: 'secret',
+  cookie:{
+    maxAge: 1000*60*30
+  }
+}));
+
 var app = express();
 
 // view engine setup
@@ -22,10 +32,29 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'views')));
+app.use('/public',express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
 app.use('/users', users);
+
+app.use(function(req,res,next){
+  res.locals.user = req.session.user;
+  var err = req.session.error;
+  delete req.session.error;
+  res.locals.message = "";
+  if(err){
+    res.locals.message = '<div class="alert alert-danger" style="margin-bottom:20px;color:red;">'+err+'</div>';
+  }
+  next();
+});
+
+app.use('/', routes);
+app.use('/users', users);
+app.use('/login',routes);
+app.use('/register',routes);
+app.use('/home',routes);
+app.use("/logout",routes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
