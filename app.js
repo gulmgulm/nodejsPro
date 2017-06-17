@@ -2,14 +2,15 @@ var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
+var session = require('express-session');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
 
-global.dbHandel = require('./database/dbHandel');
-global.db = mongoose.connect("mongodb://localhost:27017/nodedb");
+//global.dbHandel = require('./database/dbHandel');
+//global.db = mongoose.connect("mongodb://localhost:27017/nodedb");
 var app = express();
 app.use(session({
   secret: 'secret',
@@ -22,7 +23,7 @@ var app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.engine("html",require("jade").__express);
+app.engine("html",require("ejs").__express);
 //app.set('view engine', 'jade');
 app.set('view engine', 'html');
 
@@ -32,7 +33,7 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'views')));
+//app.use(express.static(path.join(__dirname, 'public')));
 app.use('/public',express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
@@ -49,12 +50,12 @@ app.use(function(req,res,next){
   next();
 });
 
-app.use('/', routes);
-app.use('/users', users);
-app.use('/login',routes);
-app.use('/register',routes);
-app.use('/home',routes);
-app.use("/logout",routes);
+//app.use('/', routes);
+//app.use('/users', users);
+//app.use('/login',routes);
+//app.use('/register',routes);
+//app.use('/home',routes);
+//app.use("/logout",routes);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
