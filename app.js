@@ -5,12 +5,16 @@ var logger = require('morgan');
 var session = require('express-session');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var mongdb=require('./config/mongoose');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
 
-//global.dbHandel = require('./database/dbHandel');
+global.dbHandel = require('./database/dbHandel');
 //global.db = mongoose.connect("mongodb://localhost:27017/nodedb");
+
+
+global.db=mongdb()
 var app = express();
 app.use(session({
   secret: 'secret',
@@ -72,7 +76,7 @@ app.use(function(err, req, res, next) {
 
   // render the error page
   res.status(err.status || 500);
-  res.render('error');
+  res.render('error',{error:"500"});
 });
 
 module.exports = app;

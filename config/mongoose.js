@@ -4,7 +4,8 @@
 var mongoose=require('mongoose');
 var config=require('./config');
 
-moudule.exports=function(){
+module.exports=function(){
     var db=mongoose.connect(config.mongdb);
-    require('')
+   //require('')
+    return db;
 }

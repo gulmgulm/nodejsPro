@@ -5,6 +5,8 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
-router.get(express.static( '../public'));
+router.get('/member', function(req, res, next) {
+  res.render("register");
+});
 
 module.exports = router;

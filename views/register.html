@@ -90,12 +90,12 @@
 <div class="content_register">
     <div class="register_wrap">
         <div class="regForm">
-            <form id="J_ajaxForm"  action="?a=reg" onsubmit="return CheckReg();" method="post">
+            <form id="J_ajaxForm"  action="/register" onsubmit="return CheckReg();" method="post">
                 <div class="regForm_hd">快速注册</div>
                 <div class="regForm_bd">
                     <div class="fl regForm_bd_left" style="height:734px;">
                         <p class="tit">手机号码</p>
-                        <input name="tel" id="tel" class="br5 inp" type="text" placeholder="请输入手机号码">
+                        <input name="tel" id="uname" class="br5 inp" type="text" placeholder="请输入手机号码">
                         <p class="tit">图形验证码</p>
                         <input name="validate" id="validate" class="br5 inp" style="width:230px; float:left;" type="text" placeholder="请输入图形验证码">
                         &nbsp;&nbsp;<a href="" style="float:left; width:80px; font-size:30px; line-height:30px; padding-left:30px; ">juoa</a>
@@ -107,9 +107,9 @@
                         <p class="tit">昵称</p>
                         <input name="username" id="username" class="br5 inp" type="text" placeholder="请输入昵称">-->
                         <p class="tit">设置登陆密码</p>
-                        <input name="password" id="password" class="br5 inp" type="password" placeholder="请输入登录密码">
+                        <input name="password" id="upwd" class="br5 inp" type="password" placeholder="请输入登录密码">
                         <p class="tit">确认登陆密码</p>
-                        <input name="repassword" id="repassword" class="br5 inp" type="password" placeholder="请再次输入登录密码">
+                        <input name="repassword" id="reupwd" class="br5 inp" type="password" placeholder="请再次输入登录密码">
                         <input class="br5 btn J_ajaxSubmit" value="立即注册"  type="submit" name="regsub" id="regsub">
                         <p class="argee">
                             <input name="agree" id="agree" value="1" type="checkbox" checked="checked">
