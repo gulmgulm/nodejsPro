@@ -7,5 +7,6 @@ var config=require('./config');
 module.exports=function(){
     var db=mongoose.connect(config.mongdb);
    //require('')
+    global.dbHandel = require('../database/dbHandel');
     return db;
 }

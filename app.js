@@ -10,19 +10,10 @@ var mongdb=require('./config/mongoose');
 var index = require('./routes/index');
 var users = require('./routes/users');
 
-global.dbHandel = require('./database/dbHandel');
 //global.db = mongoose.connect("mongodb://localhost:27017/nodedb");
 
 
 global.db=mongdb()
-var app = express();
-app.use(session({
-  secret: 'secret',
-  cookie:{
-    maxAge: 1000*60*30
-  }
-}));
-
 var app = express();
 
 // view engine setup
@@ -37,6 +28,14 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
+app.use(session({
+  secret: 'secret',
+  cookie:{
+    maxAge: 1000*60*30
+  },
+  resave: true,
+  saveUninitialized: true
+}));
 //app.use(express.static(path.join(__dirname, 'public')));
 app.use('/public',express.static(path.join(__dirname, 'public')));
 
